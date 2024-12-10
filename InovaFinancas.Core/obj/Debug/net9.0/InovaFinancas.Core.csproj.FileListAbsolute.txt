@@ -1,0 +1,12 @@
+C:\InovaTI\Codigos Fontes\InovaFinancas\InovaFinancas.core\bin\Debug\net9.0\InovaFinancas.Core.deps.json
+C:\InovaTI\Codigos Fontes\InovaFinancas\InovaFinancas.core\bin\Debug\net9.0\InovaFinancas.Core.dll
+C:\InovaTI\Codigos Fontes\InovaFinancas\InovaFinancas.core\bin\Debug\net9.0\InovaFinancas.Core.pdb
+C:\InovaTI\Codigos Fontes\InovaFinancas\InovaFinancas.core\obj\Debug\net9.0\InovaFinancas.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\InovaTI\Codigos Fontes\InovaFinancas\InovaFinancas.core\obj\Debug\net9.0\InovaFinancas.Core.AssemblyInfoInputs.cache
+C:\InovaTI\Codigos Fontes\InovaFinancas\InovaFinancas.core\obj\Debug\net9.0\InovaFinancas.Core.AssemblyInfo.cs
+C:\InovaTI\Codigos Fontes\InovaFinancas\InovaFinancas.core\obj\Debug\net9.0\InovaFinancas.Core.csproj.CoreCompileInputs.cache
+C:\InovaTI\Codigos Fontes\InovaFinancas\InovaFinancas.core\obj\Debug\net9.0\InovaFinancas.Core.sourcelink.json
+C:\InovaTI\Codigos Fontes\InovaFinancas\InovaFinancas.core\obj\Debug\net9.0\InovaFinancas.Core.dll
+C:\InovaTI\Codigos Fontes\InovaFinancas\InovaFinancas.core\obj\Debug\net9.0\refint\InovaFinancas.Core.dll
+C:\InovaTI\Codigos Fontes\InovaFinancas\InovaFinancas.core\obj\Debug\net9.0\InovaFinancas.Core.pdb
+C:\InovaTI\Codigos Fontes\InovaFinancas\InovaFinancas.core\obj\Debug\net9.0\ref\InovaFinancas.Core.dll

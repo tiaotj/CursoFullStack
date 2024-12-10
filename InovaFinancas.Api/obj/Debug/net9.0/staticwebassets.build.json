@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "aU0Z2Cr8GkgAQMgNSCSSC8FgEC7SJQnCcgG+Psm5mRo=",
+  "Source": "InovaFinancas.Api",
+  "BasePath": "_content/InovaFinancas.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

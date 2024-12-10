@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\InovaTI\\Codigos Fontes\\InovaFinancas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C156B46-FCD1-4CDD-A6DB-BB84623C5A28}|InovaFinancas.Api\\InovaFinancas.Api.csproj|c:\\inovati\\codigos fontes\\inovafinancas\\inovafinancas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C156B46-FCD1-4CDD-A6DB-BB84623C5A28}|InovaFinancas.Api\\InovaFinancas.Api.csproj|solutionrelative:inovafinancas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C156B46-FCD1-4CDD-A6DB-BB84623C5A28}|InovaFinancas.Api\\InovaFinancas.Api.csproj|c:\\inovati\\codigos fontes\\inovafinancas\\inovafinancas.api\\apiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C156B46-FCD1-4CDD-A6DB-BB84623C5A28}|InovaFinancas.Api\\InovaFinancas.Api.csproj|solutionrelative:inovafinancas.api\\apiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C156B46-FCD1-4CDD-A6DB-BB84623C5A28}|InovaFinancas.Api\\InovaFinancas.Api.csproj|c:\\inovati\\codigos fontes\\inovafinancas\\inovafinancas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C156B46-FCD1-4CDD-A6DB-BB84623C5A28}|InovaFinancas.Api\\InovaFinancas.Api.csproj|solutionrelative:inovafinancas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C156B46-FCD1-4CDD-A6DB-BB84623C5A28}|InovaFinancas.Api\\InovaFinancas.Api.csproj|c:\\inovati\\codigos fontes\\inovafinancas\\inovafinancas.api\\comun\\api\\builderextensio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C156B46-FCD1-4CDD-A6DB-BB84623C5A28}|InovaFinancas.Api\\InovaFinancas.Api.csproj|solutionrelative:inovafinancas.api\\comun\\api\\builderextensio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5765CC-573A-4CB3-8578-289862B7EC62}|InovaFinancas.core\\InovaFinancas.Core.csproj|c:\\inovati\\codigos fontes\\inovafinancas\\inovafinancas.core\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5765CC-573A-4CB3-8578-289862B7EC62}|InovaFinancas.core\\InovaFinancas.Core.csproj|solutionrelative:inovafinancas.core\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\InovaTI\\Codigos Fontes\\InovaFinancas\\InovaFinancas.Api\\Program.cs",
+              "RelativeDocumentMoniker": "InovaFinancas.Api\\Program.cs",
+              "ToolTip": "C:\\InovaTI\\Codigos Fontes\\InovaFinancas\\InovaFinancas.Api\\Program.cs",
+              "RelativeToolTip": "InovaFinancas.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:54:53.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuilderExtensio.cs",
+              "DocumentMoniker": "C:\\InovaTI\\Codigos Fontes\\InovaFinancas\\InovaFinancas.Api\\Comun\\Api\\BuilderExtensio.cs",
+              "RelativeDocumentMoniker": "InovaFinancas.Api\\Comun\\Api\\BuilderExtensio.cs",
+              "ToolTip": "C:\\InovaTI\\Codigos Fontes\\InovaFinancas\\InovaFinancas.Api\\Comun\\Api\\BuilderExtensio.cs",
+              "RelativeToolTip": "InovaFinancas.Api\\Comun\\Api\\BuilderExtensio.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:54:14.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiConfiguration.cs",
+              "DocumentMoniker": "C:\\InovaTI\\Codigos Fontes\\InovaFinancas\\InovaFinancas.Api\\ApiConfiguration.cs",
+              "RelativeDocumentMoniker": "InovaFinancas.Api\\ApiConfiguration.cs",
+              "ToolTip": "C:\\InovaTI\\Codigos Fontes\\InovaFinancas\\InovaFinancas.Api\\ApiConfiguration.cs",
+              "RelativeToolTip": "InovaFinancas.Api\\ApiConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:53:58.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\InovaTI\\Codigos Fontes\\InovaFinancas\\InovaFinancas.Core\\Configuration.cs",
+              "RelativeDocumentMoniker": "InovaFinancas.Core\\Configuration.cs",
+              "ToolTip": "C:\\InovaTI\\Codigos Fontes\\InovaFinancas\\InovaFinancas.Core\\Configuration.cs",
+              "RelativeToolTip": "InovaFinancas.Core\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:53:44.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\InovaTI\\Codigos Fontes\\InovaFinancas\\InovaFinancas.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "InovaFinancas.Api\\appsettings.json",
+              "ToolTip": "C:\\InovaTI\\Codigos Fontes\\InovaFinancas\\InovaFinancas.Api\\appsettings.json",
+              "RelativeToolTip": "InovaFinancas.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T11:51:12.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

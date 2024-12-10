@@ -1,0 +1,34 @@
+﻿@page "/login"
+@layout HeadlessLayout
+
+<PageTitle>Inova Finanças - Entrar</PageTitle>
+
+<MudGrid Justify="Justify.Center">
+	<MudItem xs="12" sm="12" md="8" lg="6" xl="6" xxl="6">
+		<MudPaper Elevation="10" Class="mud-width-full pa-6">
+			<div class="d-flex justify-center pb-0 pt-8">
+				<img src="Imgs/logo.png" alt="Inova - Controle Financeiro" width="130" />
+			</div>
+			<MudForm @ref="_mudForm">
+				<MudTextField T="string" Label="E-mail" Required="true" RequiredError="Informe o E-mail"
+							  Validation="@(new EmailAddressAttribute {ErrorMessage = "E-mail inválido"} )"
+							  InputType="InputType.Email" />
+
+				<MudTextField Class="mt-2" T="string" Label="Senha" InputType="InputType.Password"
+							  Required="true" RequiredError="Senha obrigatória" />
+			</MudForm>
+			<div class="d-flex mt-8" >
+				<MudButton Variant="Variant.Filled" Color="Color.Primary">Entrar</MudButton>
+				<MudSpacer/>
+				<MudButton Href="/comecar" Variant="Variant.Filled" Color="Color.Primary">Registrar</MudButton>
+			</div>
+
+		</MudPaper>
+	</MudItem>
+</MudGrid>
+
+@code {
+
+	MudForm? _mudForm;
+
+}
